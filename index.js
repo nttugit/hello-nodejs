@@ -16,7 +16,7 @@ app.get('/about', (req, res) => {
 
 
 app.get('/contact', (req, res) => {
-    res.send('contact')
+    res.send('contact 22')
 })
 
 
